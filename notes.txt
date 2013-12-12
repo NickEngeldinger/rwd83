@@ -1,0 +1,11 @@
+Responsive Test Site
+
+Built on Foundation 5
+
+- Original Content
+- User Directory
+- Twitter Hashtag and List feeds
+- Event Calendar (Updatable possible GCal driven)
+- Articles (History, etc)
+- Gallery
+- Links (sportsbrewery, campus attic, etc)
